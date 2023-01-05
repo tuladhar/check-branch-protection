@@ -6,8 +6,8 @@ A command-line tool to check branch protection for GitHub repository.
 
 ## Setup
 ```
-export GITHUB_TOKEN=YOUR_TOKEN
-chmod +x check-branch-protection.sh
+$ export GITHUB_TOKEN=YOUR_TOKEN
+$ chmod +x check-branch-protection.sh
 ```
 
 ## Usage
